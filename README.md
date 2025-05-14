@@ -1,4 +1,4 @@
-# Food Delivery App Front-End React JS Project
+# Food Delivery App 
 
 - Smooth Scrolling
 - Smooth animations and effects
